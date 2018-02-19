@@ -15,8 +15,7 @@ int prime(int n)
 	else { return -1; }
 
  }
-
-
+ //소수인지 판단하는 것
 
 int main() {
 
